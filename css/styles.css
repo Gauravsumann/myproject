@@ -1,0 +1,56 @@
+body{
+  background-color:skyblue ;
+  text-align: center;
+  margin:  0;
+  fon't font-family:"helvetica Neue",
+}
+
+h1{
+  color:GREEN;
+  font-size: 5.2em;
+  font-family: cursive;
+  margin-top: 0;
+}
+
+h2{
+  color: GREEN;
+  font-family: serif;
+  font-size: 3.8em;
+  margin-top: 0;
+}
+
+h3{
+  color:GREEN;
+  font-family: cursive;
+  font-size:  3.6em
+  margin-top: 0;
+}
+
+//.top-cointainer {
+  background-color:#E4F9F5;
+}
+
+//.middle-container{
+  background-color: red;
+  width:200px;
+  height:200px;
+}
+
+//.bottom-cointainer{
+
+}
+
+
+
+
+.pro{
+  text-decoration:underline;
+}
+
+.bottom-cloud {
+  position-absolute;
+}
+
+div{
+
+}
